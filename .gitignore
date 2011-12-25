@@ -1,0 +1,4 @@
+*
+!*.cc
+!*.c
+!.gitignore
