@@ -2,3 +2,4 @@
 !*.cc
 !*.c
 !.gitignore
+!init.rb
