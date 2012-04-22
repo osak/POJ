@@ -21,11 +21,13 @@ if not FileTest.exist?(filename)
 #include <iostream>
 #include <vector>
 #include <string>
+#include <algorithm>
 
 using namespace std;
 
 int main() {
     ios::sync_with_stdio(0);
+    cin.tie(0);
 }
 TEMPLATE
   end
